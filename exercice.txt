@@ -1,4 +1,5 @@
 #exercice UML
+http://franck.favetta.free.fr/cours/geonum/uml/exercices/bat_ens/
 
 Modélisation objet
 Bâtiment d'enseignement
